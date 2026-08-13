@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:1a1408,100:C9A84C&height=220&section=header&text=Jhielo%20Austria%20Gonzales&fontSize=48&fontColor=F0EAD8&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20&descColor=C9A84C&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=2800&pause=1200&color=C9A84C&center=true&vCenter=true&width=560&lines=Building+scalable+systems+in+production;Full-Stack+%7C+ML-powered+APIs+%7C+Tournament+Tech;Currently%3A+BlackRose+%C3%97+Riot+Games" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=2800&pause=1200&color=C9A84C&center=true&vCenter=true&width=560&lines=Building+scalable+systems+in+production;FullStack+%7C+ML-powered+APIs+%7C+Tournament+Tech;Currently%3A+BlackRose+%C3%97+Riot+Games" alt="Typing SVG" />
 
 <br/>
 
@@ -63,10 +63,6 @@ I build things that are fast, scalable, and **actually work in production** — 
 
 <br/>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Jhielo/Jhielo/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <sub>⚙️ To make the snake render for real, add the free <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — it auto-generates that SVG from your contribution graph on a schedule. Instructions in the section at the bottom of this file.</sub>

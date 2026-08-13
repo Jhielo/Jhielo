@@ -1,49 +1,180 @@
-<h1 align="center">Hello, I'm Jhielo Gonzales</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<div align="center">
 
-<img align="right" alt="cat" width="300" src="https://68.media.tumblr.com/3b227a90cd50bc1197f2cf83305c889b/tumblr_ot049sPL5z1w56m0do1_250.gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&size=32&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jhielo+Austria+Gonzales;Full-Stack+Software+Engineer;Building+scalable+systems+%26+ML-powered+apps" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=technolophie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-C9A84C?style=for-the-badge&logo=vercel&logoColor=white)](https://blackrose.asia/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-C9A84C?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=Jhieloaustriag@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Available_for_Work-4ade80?style=for-the-badge)](#connect-with-me)
 
-- 📫 How to reach me: **Jhieloaustriag@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 👋 About Me
+
+I build things that are fast, scalable, and **actually work in production** — from polished frontends to data pipelines and ML-powered APIs. Full-stack developer based in Laguna, Philippines, with 3+ years of turning complex problems into elegant code.
+
+- 🎓 BS Computer Science, Bicol University (2021 – 2025)
+- 💼 Currently building the **BlackRose × Riot Games** Valorant tournament platform
+- 🏆 97% average model accuracy across ML-driven projects
+- 📜 4x Meta Certified (Front-End, Version Control, JavaScript, HTML/CSS)
+
+<br/>
+
+### 🧰 Languages & Tools
+
 <p align="left">
-  <a href="https://fb.com/jhielo.gonzales" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="GTK" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FlutterFlow-4353FF?style=flat-square&logo=flutter&logoColor=white" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</p>
+
+<br/>
+
+### 💼 Experience
+
+| Period | Company | Role |
+|---|---|---|
+| 2025 – Present | **BlackRose × Riot Games** | Full-Stack Developer — Valorant Tournament Platform |
+| Aug 2024 – May 2025 | Quanby Solutions | Software Developer |
+| Jun – Aug 2024 | Quanby Solutions | CS Intern — Backend Developer |
+| 2020 – 2021 | KUMU Technologies | QA & Data Support — UBE Game |
+
+<details>
+<summary><b>BlackRose × Riot Games</b> — Full-Stack Developer, Valorant Tournament Platform</summary>
+<br/>
+
+Partnered with Riot Games to build the [BlackRose](https://blackrose.asia/) esports tournament platform for Valorant. Delivered the admin-side tournament management system, game server coordination, secure login, and Discord integrations for automated team verification and notifications.
+
+`React` `TypeScript` `Supabase` `Discord API`
+</details>
+
+<details>
+<summary><b>Quanby Solutions</b> — Software Developer</summary>
+<br/>
+
+Built the VSU Kiosk Queuing System end-to-end using TypeScript, Angular, Tailwind CSS, and Supabase — analyzing data to surface peak hours and service bottlenecks. Developed the PCIC Geotagging Application for agricultural insurance tracking with Dart, Flutter, and FlutterFlow. Architected and deployed SpeechLab — all functions, database schemas, and REST APIs from scratch.
+
+`TypeScript` `Angular` `Flutter` `Supabase` `PostgreSQL`
+</details>
+
+<details>
+<summary><b>Quanby Solutions</b> — CS Intern, Backend Developer</summary>
+<br/>
+
+Built the backend of an HRIS system. Managed and optimized database queries, cleaned and validated structured data, and collaborated with developers to improve data accuracy and integrity across the system.
+
+`Backend` `Database` `HRIS`
+</details>
+
+<details>
+<summary><b>KUMU Technologies</b> — QA & Data Support, UBE Game</summary>
+<br/>
+
+Identified, analyzed, and resolved system and data-related issues. Debugged crashes and data flow inconsistencies, documenting recurring problems to systematically improve platform reliability.
+
+`QA` `Debugging` `Data Analysis`
+</details>
+
+<br/>
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[BlackRose — Esports Tournament Platform](https://blackrose.asia/)**
+
+Full tournament management platform built in partnership with Riot Games: admin dashboard, live bracket management, game server coordination, secure login, and Discord integrations for automated notifications and team verification.
+
+`Tournament Platform` `React` `TypeScript` `Supabase` `Discord API`
+
+</td>
+<td width="50%" valign="top">
+
+**[Van Arrival & Departure Prediction System](https://github.com/Jhielo/vanguard)**
+
+Led a team to train ML models (Random Forest & KNN) predicting van schedules from historical data. Deployed a custom REST API consumed by a FlutterFlow + Supabase frontend. Achieved **96% model accuracy**.
+
+`Machine Learning` `Python` `REST API` `FlutterFlow`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**VSU Kiosk Queuing System**
+
+Full-stack queuing system for Visayas State University. Built with Angular, TypeScript, Tailwind, and Supabase. Data analysis surfaced peak-hour bottlenecks for admin decision-making.
+
+`Full-Stack` `TypeScript` `Angular`
+
+</td>
+<td width="50%" valign="top">
+
+**[SpeechLab Platform](https://github.com/Jhielo/Speechlab)**
+
+Designed and deployed all database schemas, serverless functions, and REST APIs for a speech records platform. Ensured data consistency and reliability at every layer of the system.
+
+`Full-Stack` `Supabase` `REST API`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📜 Certifications — Meta
+
+| Certification | Credential ID |
+|---|---|
+| Introduction to Front-End Programming | `O357W2NX1ME1` |
+| Version Control | `MG7LB4UCHTNH` |
+| Programming with JavaScript | `O357W2NX1ME1` |
+| HTML and CSS in Depth | `K3FJA82E1M5W` |
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jhielo&show_icons=true&hide_title=true&count_private=true&theme=dark&bg_color=0D0D0D&title_color=C9A84C&icon_color=C9A84C&text_color=f0ead8&border_color=1a1a1a" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhielo&layout=compact&theme=dark&bg_color=0D0D0D&title_color=C9A84C&text_color=f0ead8&border_color=1a1a1a" />
+</div>
+
+<br/>
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Jhieloaustriag@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Jhielo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://blackrose.asia/"><img src="https://img.shields.io/badge/BlackRose-C9A84C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<div align="center">
+<sub>© 2026 Jhielo A. Gonzales — All rights reserved</sub>
+</div>

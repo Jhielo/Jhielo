@@ -15,7 +15,7 @@
 I build things that are fast, scalable, and **actually work in production** — from polished frontends to data pipelines and ML-powered APIs. Full-stack developer based in Laguna, Philippines, with 3+ years of turning complex problems into elegant code.
 
 - 🎓 BS Computer Science, Bicol University (2021 – 2025)
-- 💼 Currently building the **BlackRose × Riot Games** Valorant tournament platform
+- 💼 Currently building the **BlackRose Website** 
 - 🏆 97% average model accuracy across ML-driven projects
 - 📜 4x Meta Certified (Front-End, Version Control, JavaScript, HTML/CSS)
 
